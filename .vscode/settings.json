@@ -1,0 +1,21 @@
+{
+  "editor.hover.enabled": false,
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.inlineSuggest.enabled": false,
+  "editor.parameterHints.enabled": false,
+  "editor.lightbulb.enabled": false,
+  "editor.wordBasedSuggestions": false,
+  "json.schemaDownload.enable": false,
+  "json.suggest.enabled": false,
+  "json.validate.enable": false,
+  "typescript.suggest.enabled": false,
+  "typescript.hover.enabled": false,
+  "typescript.inlayHints.parameterNames.enabled": "off",
+  "html.hover.documentation": false,
+  "css.hover.enabled": false
+}
